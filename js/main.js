@@ -54,7 +54,7 @@ $(document).ready(function(){
 				var randomAuthor = data.author;
 				$(".quotes").css("border-style","solid");
 				$(".quote").text(randomQuote);
-				$(".author").text(randomAuthor);
+				$(".author").text("- "+randomAuthor);
 				
 			},
 			error:function(data){
