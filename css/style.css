@@ -1,0 +1,34 @@
+
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+
+h1 {
+   
+    text-align: center;
+     font-family: "Times New Roman", Times, serif;
+}
+
+.quotes{
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	height:auto;
+	
+}
+
+.quote:{
+	font-size:30px;
+	 font-family: "Times New Roman", Times, serif;
+	
+}
+
+.author{
+	font-size: 10px;
+	font-style:italic;
+	
+}
