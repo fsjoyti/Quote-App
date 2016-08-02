@@ -3,3 +3,5 @@
 *signature*.xml
 *.wgt
 .*_delta*
+.project
+.tproject
